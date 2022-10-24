@@ -34,5 +34,6 @@ Current malware is less likely to embed a payload that damages system files; ins
 <br>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/59760485/197605447-4302ce1a-3960-4b80-9a49-03a65b7d320e.jpg">
+  <img src="https://user-images.githubusercontent.com/59760485/197615087-501a14e7-b599-486e-8396-83812ceb926d.jpg">
 </p>
+
